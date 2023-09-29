@@ -1,0 +1,31 @@
+.parallax-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.parallax {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(241, 225, 203); 
+  /* background-size: cover;
+  background-position: center; */
+  transition: transform 0.2s ease-in-out;
+}
+
+.content {
+  text-align: center;
+  padding: 100px 0;
+  
+}
+
+#intro_h{
+  font-size: 36px;
+
+}
+
+#intro_p {
+  font-size: 18px;
+}
