@@ -1,6 +1,7 @@
 body {
   background-color: #f4f1e8;
   height: 100%;
+  font-family: 'Mooli', sans-serif;
 }
 
 /* Header container  */
@@ -8,7 +9,6 @@ body {
   width: 100%;
   margin-top: 10rem;
   text-align: center;
-  font-family: 'Mooli', sans-serif;
   margin-bottom: 10rem;
 }
 
