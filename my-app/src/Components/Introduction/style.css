@@ -8,7 +8,8 @@ body {
   width: 100%;
   margin-top: 10rem;
   text-align: center;
-  font-family: "Bradley Hand";
+  font-family: 'Mooli', sans-serif;
+  margin-bottom: 10rem;
 }
 
 #circle {
@@ -16,19 +17,20 @@ body {
   height: 50px;
   background-color: rgb(241, 125, 144);
   border-radius: 50%; 
-  position: relative;
-  left: 45%;
-  top: 0;
+  position: absolute;
+  left: 50%;
+  top: 4%;
 }
 
 /* intro header */
 #intro_h {
-  font-size: 4rem;
+  font-size: 6rem;
 }
 
 /* Icons */
+
 .icons {
-  width: 5%;
+  width: 5rem;
   margin: auto;
   padding: 1rem;
 }

@@ -1,13 +1,12 @@
 import './App.css';
 import Introduction from './Components/Introduction/Introduction';
-// import Parallax from './Components/Parallax/Parallax';
+import DevPics from './Components/DevPics/DevPics';
 
 function App() {
   return (
     <div className='App'>
       <Introduction />
-      {/* <Parallax /> */}
-      
+      <DevPics />
     </div>
   );
 }
