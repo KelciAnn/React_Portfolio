@@ -7,6 +7,7 @@ import './style.css';
 
 const DevPics = () =>{
     return(
+        // Test comment
         <div id="dev_container">
             <img src={codingScreen} alt="Screen of Code" id='right_img'className='pictures' />
             <img src={binary} alt="Binary Code" id='left_img' className='pictures'/>
