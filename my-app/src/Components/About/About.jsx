@@ -17,16 +17,10 @@ const About = () =>{
                 with problem solving and technology inovations.
             </p>
              </div>
-      
 
             <img src={profilePic} alt="Me" id="profile_pic"/>
- 
-           
             </div>
-          
-
         </>
-        
     )
 }
 export default About;
