@@ -1,0 +1,26 @@
+#dev_focus{
+    text-align: center;
+    color: #ff007f;
+    font-size: 40px;
+    margin: auto;
+    margin-top: 6rem;
+}
+
+.photos{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    margin-top: 6rem;
+}
+
+.photo_width{
+    width: 150px;
+}
+/* description */
+
+.dev_desc{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    margin-top: 2rem;
+}
