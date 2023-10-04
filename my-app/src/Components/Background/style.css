@@ -1,0 +1,35 @@
+#per_background {
+  color: #ff007f;
+  font-size: 40px;
+  margin: auto;
+  text-align: center;
+  margin-top: 6rem;
+}
+
+.back_container {
+  display: flex;
+  flex-wrap: nowrap;
+  height: 100%;
+  width: 100%;
+  margin-top: 6rem;
+  text-align: center;
+}
+
+#college {
+  width: 33.33%;
+  height: 45%;
+}
+
+#bootcamp {
+  width: 33.33%;
+  height: 45%;
+}
+
+#work {
+  width: 33.33%;
+  height: 45%;
+}
+
+.bold_paras {
+  font-weight: 800;
+}
