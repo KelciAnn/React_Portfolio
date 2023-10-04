@@ -4,6 +4,7 @@
     height: 100%;
     display: flex;
     flex-wrap: wrap;
+    margin-top: 6rem;
 }
 
 #header_tag{
