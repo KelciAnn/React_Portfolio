@@ -27,7 +27,7 @@ const Projects = () => {
             href="https://github.com/KelciAnn/AzEntertainment/tree/main#readme"
             className="project_links"
           >
-            {" "}
+           
             <img src={mdFile} alt="Read Me Icon" className="project_imgs" />
           </a>
           <p className="project_paras">Fullstack App</p>

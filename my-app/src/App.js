@@ -5,6 +5,7 @@ import About from './Components/About/About';
 import Background from './Components/Background/Background';
 import DevFocus from './Components/DevFocus/DevFocus';
 import Projects from './Components/Projects/Projects';
+import Branding from './Components/Branding/Branding';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Background />
       <DevFocus />
       <Projects />
+      <Branding />
     </div>
   );
 }
