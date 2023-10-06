@@ -1,0 +1,27 @@
+
+#project_header {
+  color: #ff007f;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 6rem;
+}
+
+#project_para{
+    text-align: center;
+}
+
+.projects_ss{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.project_imgs{
+    margin-top: 6rem;
+    width: 150px;
+}
+
+.project_paras{
+    margin-top: 2rem;
+}

@@ -4,6 +4,7 @@ import DevPics from './Components/DevPics/DevPics';
 import About from './Components/About/About';
 import Background from './Components/Background/Background';
 import DevFocus from './Components/DevFocus/DevFocus';
+import Projects from './Components/Projects/Projects';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Background />
       <DevFocus />
+      <Projects />
     </div>
   );
 }
